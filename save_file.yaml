@@ -1,0 +1,22 @@
+---
+profile1:
+  profile_name: kalamansi
+  wins: 1
+  loses: 2
+  current_word: divisions
+  hidden_word: _ _ _ _ _ _ _ _ _
+  turns_left: 8
+profile2:
+  profile_name: another one
+  wins: 0
+  loses: 0
+  current_word: detail
+  hidden_word: _ _ _ _ _ _
+  turns_left: 8
+profile3:
+  profile_name: "-New Profile-"
+  wins: 0
+  loses: 0
+  current_word: ''
+  hidden_word: ''
+  turns_left: 8
